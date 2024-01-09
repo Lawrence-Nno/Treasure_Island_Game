@@ -1,5 +1,6 @@
 # Treasure Island Game
 #### _This python script runs the popular text based treasure island game_
+![Treasure Island Game Ascii Art](https://github.com/Lawrence-Nno/Treasure_Island_Game/blob/main/treasure.png)
 
 Treasure Island Game is a fun project I coded when I was learning python. I decided to publish some of my earlier codes during my python journey. Hence this!
 
